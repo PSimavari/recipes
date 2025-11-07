@@ -3,3 +3,5 @@
 -spring onions (2.40)
 -potato (3.60)
 # Instructions
+put peas into a pan
+
