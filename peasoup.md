@@ -1,5 +1,5 @@
 # Ingredients
--peas
--spring onions
--potato
+-peas (1.75)
+-spring onions (2.40)
+-potato (3.60)
 # Instructions
